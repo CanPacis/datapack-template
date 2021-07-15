@@ -6,6 +6,9 @@ A basic data pack template for creating minecraft data pack functions.
 Click the ```Code``` button at the top of the page and click ```Download ZIP``` option. After the download extract the first folder and place it in a minecraft save's datapacks folder.
 
 ## Getting Started
+
+> ATTENTION: If you don't want to dabble with folder names and file contents you can use the [Data Pack Generator](https://github.com/CanPacis/datapack-generator) program to skip the below 3 steps. Keep in mind that this is an unknown executable file so use it with your own risk. The software is open source, so if you don't trust me you can check out the code and compile it yourself. 
+
 1. **Replace the following files' contents from ```template``` to ```YOUR DATA PACK NAME```;**
 
 - ./data/minecraft/tags/functions/load.json
